@@ -1,5 +1,5 @@
-## Menu 
-- [Read](https://github.com/Amdelet/Amdelet.github.io/blob/main/Read.md)
+### Menu 
+- Read
 - Math
 - English
 - Physics
